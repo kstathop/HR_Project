@@ -6,5 +6,4 @@ JS
 PHP
 MySQL Database
 XAMPP
-Bootstrap Framework
-Responsee Framework
+
